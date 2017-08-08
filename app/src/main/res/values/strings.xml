@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">UR Protected</string>
+    <string name="otp_verify">A OTP has been send to your mobile no. Please enter the OTP below to Verify your Mobile Number</string>
+<string name="verify_phn">We will send an SMS message to verify your phone number.Enter your country code and phone number.</string>
 </resources>
